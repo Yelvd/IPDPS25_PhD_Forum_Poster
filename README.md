@@ -1,7 +1,6 @@
 # Improving the Energy Efficiency of Large-Scale Scientific Simulations
 
 This repository contains a copy of my IPDPS'25 PhD forum poster and the poster abstract, as well as links to the work highlighted in this poster.
-To contact me you can find my email address on the poster, or in the abstract.
 
 - [HemoCell](hemocell.com)
 - [HemoCell benchmarking repository](https://github.com/UvaCsl/Hemocell-Performance-Benchmarks)
